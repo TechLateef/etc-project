@@ -43,3 +43,76 @@
 2023-23-07-08:27:08,Load phase Ended
 2023-23-07-08:27:08,Load to db phase Started
 2023-23-07-08:27:08,Load to db phase Ended
+2023-13-12/13/23-14:58:40, ETL Job Started
+2023-13-12/13/23-14:58:40, Extract phase Started
+2023-13-12/13/23-15:05:45, ETL Job Started
+2023-13-12/13/23-15:05:45, Extract phase Started
+2023-23-13-15:09:56,ETL Job Started
+2023-23-13-15:09:56,Extract phase Started
+2023-23-13-15:11:25,ETL Job Started
+2023-23-13-15:11:25,Extract phase Started
+2023-23-13-15:14:30,ETL Job Started
+2023-23-13-15:14:30,Extract phase Started
+2023-23-13-15:14:50,ETL Job Started
+2023-23-13-15:14:50,Extract phase Started
+2023-23-13-15:15:46,ETL Job Started
+2023-23-13-15:15:46,Extract phase Started
+2023-23-13-15:17:05,ETL Job Started
+2023-23-13-15:17:05,Extract phase Started
+2023-23-13-15:18:03,ETL Job Started
+2023-23-13-15:18:03,Extract phase Started
+2023-13-12/13/23-15:18:33, ETL Job Started
+2023-13-12/13/23-15:18:33, Extract phase Started
+2023-13-12/13/23-15:27:33, ETL Job Started
+2023-13-12/13/23-15:27:33, Extract phase Started
+2023-23-13-15:31:35,ETL Job Started
+2023-23-13-15:31:35,Extract phase Started
+2023-23-13-15:31:59,ETL Job Started
+2023-23-13-15:31:59,Extract phase Started
+2023-23-13-15:34:15,ETL Job Started
+2023-23-13-15:34:15,Extract phase Started
+2023-23-13-15:34:42,ETL Job Started
+2023-23-13-15:34:42,Extract phase Started
+2023-23-13-15:34:55,ETL Job Started
+2023-23-13-15:34:55,Extract phase Started
+2023-23-13-15:35:28,Extract phase Ended
+2023-23-13-15:35:28,Transform phase Started
+2023-23-13-15:35:28,Transform phase Ended
+2023-23-13-15:35:28,Load phase Started
+2023-23-13-15:35:28,Load phase Ended
+2023-23-13-15:35:28,Load to db phase Started
+2023-23-13-15:35:28,Load to db phase Ended
+2023-23-13-15:39:05,ETL Job Started
+2023-23-13-15:39:05,Extract phase Started
+2023-23-13-15:41:45,ETL Job Started
+2023-23-13-15:41:45,Extract phase Started
+2023-23-13-15:44:03,ETL Job Started
+2023-23-13-15:44:03,Extract phase Started
+2023-23-13-15:44:06,Extract phase Ended
+2023-23-13-15:44:06,Transform phase Started
+2023-23-13-15:44:06,Transform phase Ended
+2023-23-13-15:44:06,Load phase Started
+2023-23-13-15:44:06,Load phase Ended
+2023-23-13-15:44:06,Load to db phase Started
+2023-23-13-15:44:06,Load to db phase Ended
+2023-23-13-15:45:29,ETL Job Started
+2023-23-13-15:45:29,Extract phase Started
+2023-13-12/13/23-15:46:32, ETL Job Started
+2023-13-12/13/23-15:46:32, Extract phase Started
+2023-13-12/13/23-16:14:11, ETL Job Started
+2023-13-12/13/23-16:14:11, Extract phase Started
+2023-13-12/13/23-16:14:52, ETL Job Started
+2023-13-12/13/23-16:14:52, Extract phase Started
+2023-13-12/13/23-16:16:55, ETL Job Started
+2023-13-12/13/23-16:16:55, Extract phase Started
+2023-13-12/13/23-16:22:53, ETL Job Started
+2023-13-12/13/23-16:22:53, Extract phase Started
+2023-13-12/13/23-16:23:44, ETL Job Started
+2023-13-12/13/23-16:23:44, Extract phase Started
+2023-13-12/13/23-16:23:48, Extract phase Ended
+2023-13-12/13/23-16:24:52, Transform phase Started
+2023-13-12/13/23-16:24:52, Transform phase Ended
+2023-13-12/13/23-16:24:55, Load phase Started
+2023-13-12/13/23-16:24:55, Load phase Ended
+2023-13-12/13/23-16:24:56, Load to db phase Started
+2023-13-12/13/23-16:24:57, Load to db phase Ended

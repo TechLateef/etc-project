@@ -35,12 +35,15 @@ def extract(url, table_attribs):
     html = BeautifulSoup(page,'html.parser')
     df = pd.DataFrame(columns=table_attribs)
     tables = html.find_all('tbody')
-    rows = tables[0].find_all('tr')
+    rows = tables[1].find_all('tr')
     for row in rows:
         col = row.find_all('td')
-        if len(col)!=0:
-            data_dic = {'Name':str(col[1].find_all('a')[1].text),
-                       'MC_USD_Billion':float(col[2].contents[0].strip().replace('\n', '')) }
+        if col:
+            name = str(col[1].find_all('a')[0].text)
+            mc_usd_billion_str = col[2].contents[0].strip().replace('\n', '')
+            mc_usd_billion_str = mc_usd_billion_str.replace(',','')
+            data_dic = {'Name':name,
+                       'MC_USD_Billion':float(mc_usd_billion_str) }
             df1 = pd.DataFrame(data_dic, index=[0])
             df = pd.concat([df,df1],ignore_index=True)    
     
